@@ -1,2 +1,2 @@
 # pgstatic
-test1
+test2
